@@ -101,7 +101,8 @@ h3 {
   .linktree {
 	  width: 120px;
 	  height: 120px;
-	  background-image: url("../assets/images/display-picture-mako.jpg");
+	  background-color: #ffffff;
+	  /* background-image: url("../assets/images/display-picture-mako.jpg"); */
       background-size: cover;
 	  background-repeat: no-repeat;
       background-position: 50% 50%;
